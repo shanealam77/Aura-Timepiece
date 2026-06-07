@@ -1,6 +1,0 @@
-{
-  "name": "Aura Timepiece",
-  "description": "An interactive, ultra-modern single product page for a luxury minimalist smartwatch.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
